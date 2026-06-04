@@ -3,6 +3,9 @@ aenv/
 venv/
 .env
 .env.compose
+antenv/
+env/
+.venv/
 
 # Byte-compiled / optimized / cached files
 __pycache__/
